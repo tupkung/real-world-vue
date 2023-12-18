@@ -1,0 +1,33 @@
+{
+  "events": [{
+  "id": 5928101,
+  "category": "animal welfare",
+  "title": "Cat Adoption Day",
+  "description": "Find your new feline friend at our adoption event.",
+  "location": "Seattle, WA",
+  "date": "January 28, 2021",
+  "time": "12:00 PM",
+  "postAllowed": true,
+  "organizer": "Seattle Animal Shelter",
+}, {
+  "id": 5928102,
+  "category": "animal welfare",
+  "title": "Dog Adoption Day",
+  "description": "Find your new canine friend at our adoption event.",
+  "location": "Seattle, WA",
+  "date": "January 29, 2021",
+  "time": "12:00 PM",
+  "postAllowed": true,
+  "organizer": "Seattle Animal Shelter",
+}, {
+  "id": 5928103,
+  "category": "animal welfare",
+  "title": "Cat Adoption Day",
+  "description": "Find your new feline friend at our adoption event.",
+  "location": "Seattle, WA",
+  "date": "January 30, 2021",
+  "time": "12:00 PM",
+  "postAllowed": true,
+  "organizer": "Seattle Animal Shelter",
+}]
+}
